@@ -1,0 +1,30 @@
+:root {
+    --white-color: #fff;
+    --black-color: black;
+    --blue-color: #00CDCE;
+    --text-color: #7f7777;
+    --font-size: 1.6rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.grid {
+    width: 1920px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+p {
+    letter-spacing:1px;
+}
+
